@@ -6,6 +6,7 @@ Actualización: 15 de noviembre de 2026. Proyecto individual de Michael Alexande
 - [GDD versión 1.1](Tato_GDD_v1_1_TI6.pdf)
 - [Anexo de compilación y pruebas](Prueba_ejecutable_TI6.pdf)
 - [Ejecutable Windows: release de TI6](https://github.com/maicolletrado-dotcom/Projectvideojuego/releases/tag/Tarea_integradora_6_entrega1)
+- [Video de sustentación de TI6](https://youtu.be/Vm_NuovR7v0)
 - [Guion de sustentación](Guion_Primera_Entrega_TI6.md)
 - [Registro de puntos](Registro_burndown_TI6.csv)
 - [Seguimiento y retrospectiva](Seguimiento_TI6_15nov.pdf)
@@ -16,7 +17,8 @@ El sprint documental fue ajustado al 15-16 de noviembre y marcado Terminado el d
 
 El ejecutable fue compilado para Windows de 64 bits. Las 21 comprobaciones controladas del editor fueron aprobadas. El autor confirmó los controles y el funcionamiento de las cuatro fases en el ejecutable.
 
-Sigue pendiente el video propio de TI6 y comprobar el acceso del instructor a ClickUp. La release y el video de TI5 son antecedentes. Las sesiones con cinco jugadores de TI5 son una evidencia distinta.
+El autor aportó el enlace del video propio de TI6 y se incorporó al informe. Falta comprobar su reproducción sin iniciar sesión y el acceso del instructor a ClickUp; no se certifica aquí una revisión completa del contenido de la grabación. La release y el video de TI5 son antecedentes. Las sesiones con cinco jugadores de TI5 son una evidencia distinta.
 
 Las fuentes locales actualizadas están publicadas en la misma release: Tato_TI6_Fuentes_2026-11-15.zip, con Assets, Packages y ProjectSettings. Su huella SHA-256 coincide con la copia local. Los archivos Source code automáticos del tag conservan código anterior; para editar este build usar el ZIP de fuentes identificado.
+
 

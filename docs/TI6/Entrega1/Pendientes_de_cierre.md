@@ -14,8 +14,9 @@ Actualización real: 15 de noviembre de 2026.
 
 1. El gráfico es una alternativa calculada desde registros reales; no es una tarjeta nativa de ClickUp, excluida del plan Free Forever. Confirmar su aceptación si el instructor exige el gráfico nativo. El sprint ya figura Terminado; no queda por ejecutar la semana originalmente propuesta.
 2. Ejecutable y enlace: COMPLETADOS. Release pública Tarea_integradora_6_entrega1, ZIP y huella verificados. La compilación, las 21 pruebas del editor, los controles y las cuatro fases probadas por el usuario están documentados en el anexo. Las fuentes completas actualizadas también están publicadas en Tato_TI6_Fuentes_2026-11-15.zip, con huella verificada; el Source code automático del tag conserva código anterior.
-3. Grabar el video propio de TI6 e incorporar su enlace al informe.
+3. Video de TI6: enlace aportado por el autor e incorporado al informe: https://youtu.be/Vm_NuovR7v0. El contenido completo de la grabación no ha sido revisado por el agente; comprobar su reproducción sin iniciar sesión antes del envío.
 4. Comprobar acceso del instructor a ClickUp y confirmar la recepción posterior a la fecha de la guía. El envío a Zajuna lo realiza el aprendiz.
 
 Los diagramas UML, pseudocódigos y secuencias pertenecen a la segunda evidencia. Las sesiones con cinco jugadores de TI5 permanecen como pendiente separado.
+
 
