@@ -38,7 +38,7 @@ Mostrar el sprint, las tareas y los puntos.
 
 La conceptualización se organiza en tres actividades: CON01 para concepto e historia, ADM01 para planificación administrativa y ESP01 para actualizar el GDD y especificar el nivel cero. Suman trece puntos de esfuerzo y están asignadas a mí como único integrante. Los puntos son estimaciones relativas, no horas ni pagos. La actividad de diseño UML queda para la segunda evidencia.
 
-El sprint se programó del 16 al 22 de noviembre. El 15 revisamos y cerramos anticipadamente sus tres tareas documentales, con los artefactos y enlaces en ClickUp. El gráfico registra los cierres de esa misma sesión: 13, 10, 5 y 0 puntos restantes. No es una curva de varios días ni un burndown nativo; el calendario aún figura No iniciado y debo completar el seguimiento formal o confirmar con el instructor la aceptación de este registro anticipado. El plan gratuito permite mover tareas al sprint; conservarlas simultáneamente en dos listas solicitó un plan de pago.
+El sprint se programó inicialmente del 16 al 22 de noviembre. Con autorización se ajustó a duración personalizada del 15 al 16, y el 15 confirmamos el alcance y lo marcamos Terminado tras revisar sus tres tareas y evidencias. El gráfico registra los cierres de esa sesión: 13, 10, 5 y 0 puntos restantes. Es un gráfico calculado con registros reales, no una tarjeta nativa de ClickUp. El plan Free Forever no incluye esas tarjetas; presento la alternativa verificable para revisión del instructor. El plan gratuito permite mover tareas al sprint; conservarlas simultáneamente en dos listas solicitó un plan de pago.
 
 ## Cronograma presupuesto y riesgos
 
