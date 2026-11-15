@@ -1,9 +1,5 @@
-﻿Fecha,Puntos_comprometidos,Puntos_completados_acumulados,Puntos_restantes,Evidencia
-2026-11-15,13,0,13,Captura de planificación del sprint no iniciado
-2026-11-16,13,,,Pendiente de registro real
-2026-11-17,13,,,Pendiente de registro real
-2026-11-18,13,,,Pendiente de registro real
-2026-11-19,13,,,Pendiente de registro real
-2026-11-20,13,,,Pendiente de registro real
-2026-11-21,13,,,Pendiente de registro real
-2026-11-22,13,,,Pendiente de registro real
+﻿Fecha,Orden_observado,Hito,Puntos_comprometidos,Completados_acumulados,Restantes,Evidencia
+2026-11-15,0,Linea base,13,0,13,Captura inicial de planificacion
+2026-11-15,1,Cierre CON01,13,3,10,https://app.clickup.com/t/1600300000004598/1dfevggp898
+2026-11-15,2,Cierre ADM01,13,8,5,https://app.clickup.com/t/1600300000004598/1dfevggp89a
+2026-11-15,3,Cierre ESP01,13,13,0,https://app.clickup.com/t/1600300000004598/1dfevggp899
