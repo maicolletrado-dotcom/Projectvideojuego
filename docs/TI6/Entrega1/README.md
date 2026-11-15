@@ -18,4 +18,5 @@ El ejecutable fue compilado para Windows de 64 bits. Las 21 comprobaciones contr
 
 Sigue pendiente el video propio de TI6 y comprobar el acceso del instructor a ClickUp. La release y el video de TI5 son antecedentes. Las sesiones con cinco jugadores de TI5 son una evidencia distinta.
 
-La copia de fuentes locales actualizadas está preparada, pero su publicación sigue pendiente de autorización. Los archivos Source code automáticos del tag no corresponden a esas fuentes actuales; la descripción de la release lo explica.
+Las fuentes locales actualizadas están publicadas en la misma release: Tato_TI6_Fuentes_2026-11-15.zip, con Assets, Packages y ProjectSettings. Su huella SHA-256 coincide con la copia local. Los archivos Source code automáticos del tag conservan código anterior; para editar este build usar el ZIP de fuentes identificado.
+
