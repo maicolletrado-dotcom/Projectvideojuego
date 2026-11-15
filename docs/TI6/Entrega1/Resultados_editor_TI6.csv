@@ -1,0 +1,22 @@
+﻿ID,Prueba,Resultado,Entorno,Fecha_UTC
+ED01,Elección inicial bloquea movimiento,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED02,Altura reducida del jugador,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED03,Proyectil daña al enemigo mediante colisión,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED04,Pulso de área aplica daño,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED05,Golpe cuerpo a cuerpo aplica daño,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED06,Escudo bloquea daño durante su duración,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED07,El daño vuelve al terminar el escudo,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED08,No se levanta dentro del techo bajo,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED09,Se levanta al salir del techo,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED10,Salto mueve el cuerpo hacia arriba,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED11,Terminal registra el checkpoint,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED12,Caída reaparece en el checkpoint incluso con escudo elegido,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED13,Tres cristales se recogen por contacto,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED14,Péndulo oscila con física,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED15,Péndulo daña al jugador de pie,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED16,Entropía aumenta cerca del peligro,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED17,Agacharse permite evitar el péndulo,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED18,Entropía desciende en una zona segura,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED19,Plataforma móvil transporta al jugador,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED20,Las puertas reconocen enemigos derrotados,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z
+ED21,Portal presenta cierre del entrenamiento,APROBADA,Unity Editor; posicionamiento controlado,2026-11-15T15:53:51.9975228Z

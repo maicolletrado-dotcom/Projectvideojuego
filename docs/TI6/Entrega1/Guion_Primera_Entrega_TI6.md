@@ -24,7 +24,7 @@ Mostrar las páginas de mejoras y comprobaciones del informe; después, si es po
 
 El personaje pasó de una figura con aspecto robótico a un científico moderno en 2D y de menor altura. Corregimos la detección del suelo para mejorar el salto e incorporamos agacharse con control de techo. Probamos el daño y el retorno al checkpoint. El tutorial ahora tiene cuatro fases con plataformas, cristales, péndulos, fosos y puertas de avance. Tato dispone de golpe cercano y puede elegir al inicio entre proyectil, pulso y escudo. Las sondas y robots permiten practicar combate, y el profesor guía al jugador. La interfaz muestra vida y riesgo mediante entropía y un efecto visual de peligro.
 
-El registro previo reúne veintiuna comprobaciones funcionales. Esas pruebas controladas no sustituyen una partida completa, las sesiones con cinco jugadores ni la prueba de un ejecutable actualizado. La release de TI5 es un antecedente y no afirmo que contenga todas estas mejoras posteriores.
+Se generó un ejecutable actualizado para Windows de 64 bits. Se repitieron las veintiuna comprobaciones funcionales en el editor y fueron aprobadas. Además, probé los controles del ejecutable y confirmé que sus cuatro fases funcionan bien. Las pruebas controladas, mi recorrido manual y las sesiones pendientes con cinco jugadores se distinguen como evidencias diferentes. La release de TI5 es un antecedente; el ejecutable nuevo corresponde a TI6.
 
 ## Requisitos
 
